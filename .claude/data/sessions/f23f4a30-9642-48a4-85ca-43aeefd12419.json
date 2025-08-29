@@ -10,6 +10,7 @@
     "we should be able to have access to it if needed . we will not have other users just yet, we will let them edit though if needed and we can see who did what possibly to track changes accordingly. since we are self hosting, provide the good proactive measures to keep everything stored safely without making it too complicated. yes we will have human approval on telegram though after a certain confidence threshold, it should be able to send things out on their own. we should have an ai agent specifically for quality assurance though. whatever teh best practices are for this specific setup. we will store backups locally ",
     "i do not need to use local llm since this is such a small computer, we will use gemini for now, so please create and push this git repo please",
     "be highly critical of the following plan and research and build on the best exisiting practices to map out the workflow and improve on the big picture plan here with better understanding of the refinements on all of the small picture details to take note of for the rest of the project here",
-    "instead of postgresql, what if i used appwrite instead?"
+    "instead of postgresql, what if i used appwrite instead?",
+    "should we build out the following project now separately or connect to the ssd card that will install the raspberry pi os and then add the following ni there directly? which is the best approach and why? "
   ]
 }
