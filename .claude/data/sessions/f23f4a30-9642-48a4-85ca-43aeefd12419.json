@@ -15,6 +15,7 @@
     "keep in mind to update the readme and note that we are using appwrite cloud so that frees even more things up ",
     "now brainstorm the best and optimal workflows to consider and list out based on our use case here for one store and understand exactly what we need to have, what workflows to consider, how we would be trained by emails or images to improve the quality of the project. keep in mind things like nano banana that gemini recently launched for instagram photos or other things to that degree when considering and mapping out ai agent workflows that especially works well through n8n. if you are unsure look up n8n workflows either on youtube or reddit or other sources that clearly map out the following. also pull the git repo of the n8n docs so that we build out the workflows effectively and properly with few need of iteratiosn tehre",
     "are you sure? nano banana shows here https://blog.google/intl/en-mena/product-updates/explore-get-answers/nano-banana-image-editing-in-gemini-just-got-a-major-upgrade/ also where you we put and train out all of the information on the product adn the brand so that we maintain a strong and consistent brand identity here? please research if you do not know",
-    "please continue"
+    "please continue",
+    "is there anything else to keep in mind of before we befing building and execting this project here? "
   ]
 }
