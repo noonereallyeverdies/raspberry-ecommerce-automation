@@ -11,6 +11,7 @@
     "i do not need to use local llm since this is such a small computer, we will use gemini for now, so please create and push this git repo please",
     "be highly critical of the following plan and research and build on the best exisiting practices to map out the workflow and improve on the big picture plan here with better understanding of the refinements on all of the small picture details to take note of for the rest of the project here",
     "instead of postgresql, what if i used appwrite instead?",
-    "should we build out the following project now separately or connect to the ssd card that will install the raspberry pi os and then add the following ni there directly? which is the best approach and why? "
+    "should we build out the following project now separately or connect to the ssd card that will install the raspberry pi os and then add the following ni there directly? which is the best approach and why? ",
+    "keep in mind to update the readme and note that we are using appwrite cloud so that frees even more things up "
   ]
 }
